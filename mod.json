@@ -1,0 +1,11 @@
+{
+	name: "ixgamerxl-crc",
+	displayName: "Chip Compiler",
+	author: "IxGamerXL#6306",
+	description: "Allows you to make instant instructions of whatever you want to input. Chip Reader schematic code may be copied from inside the GUI. \n\n[lightgrey](Required DeltaNedas/ui-lib (aka UI Lib) mod, found in Mod Browser.)",
+	version: "1.2.0",
+	repo: "IxGamerXL/ChipCompiler"
+	dependencies: ["ui-lib"],
+	hidden: true,
+	minGameVersion: 126.2
+}
